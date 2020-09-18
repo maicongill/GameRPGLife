@@ -7,8 +7,8 @@
 
 <h3>Mecânicas</h3>
 <ul>
-  <strike><li>Movimentação</li></strike>
-  <blockquote>Movimentar o personagem nas duas direção "XZ" e fazer o pulo do personagem.</blockquote>
+  <strike><li>Movimentação</li>
+  <blockquote>Movimentar o personagem nas duas direção "XZ" e fazer o pulo do personagem.</blockquote></strike>
   <li>Vida e mana</li>
   <blockquote>sistema onde o personagem tem um numero estabelecida de mana e vida com um acréscimo por segundo de ambos quando o total de mana e vida do personagem for diferente     do atual.</blockquote>
   <li>Ataques básicos</li>
