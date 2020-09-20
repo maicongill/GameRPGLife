@@ -10,9 +10,16 @@
   <strike><li>Movimentação</li>
   <blockquote>Movimentar o personagem nas duas direção "XZ" e fazer o pulo do personagem.</blockquote></strike>
   <strike><li>Vida e mana</li>
-  <blockquote>sistema onde o personagem tem um numero estabelecida de mana e vida com um acréscimo por segundo de ambos quando o total de mana e vida do personagem for diferente     do atual.</blockquote></strike>
+  <blockquote>sistema onde o personagem tem um numero estabelecida de mana e vida com um acréscimo por segundo de ambos quando o total de mana e vida do personagem for diferente do atual.</blockquote></strike>
+  <li>Quebrar objetos</li>
+  <blockqoute>Quebrar diferentes objetos(EX: arvores e pedras),cada objeto terá um máximo de item que pode ser coletado dele ao alcançar o máximo de item possível ele ira      quebrar</blockqoute>
+  <li>Inventario</li>
+  <blockquote>Duas janelas uma para guardar itens e a outra para itens equipáveis(EX: arma e armadura) com banco de dados</blockquote>
+  <li>Coletar itens</li>
+  <blockqoute>Itens coletados são automaticamente armazenados no inventario</blockqoute>
   <li>Ataques básicos</li>
   <blockquote>Realizar dois ataques básicos com uma arma o com as mãos, um fraco e rápido e o outro forte e lento com os dois botões do mouse.</blockquote>
+  
 </ul>
 <h4>Objetos 3D</h4>
 <ul>
