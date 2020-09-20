@@ -12,7 +12,7 @@
   <strike><li>Vida e mana</li>
   <blockquote>sistema onde o personagem tem um numero estabelecida de mana e vida com um acréscimo por segundo de ambos quando o total de mana e vida do personagem for diferente do atual.</blockquote></strike>
   <li>Quebrar objetos</li>
-  <blockquote>Quebrar diferentes objetos(EX: arvores e pedras),cada objeto terá um máximo de item que pode ser coletado dele ao alcançar o máximo de item possível ele ira      quebrar</blockquote>
+  <blockquote>Quebrar diferentes objetos(EX: arvores e pedras),cada objeto terá um máximo de item que pode ser coletado dele, ao alcançar o máximo de item possível ele ira      quebrar</blockquote>
   <li>Inventario</li>
   <blockquote>Duas janelas uma para guardar itens e a outra para itens equipáveis(EX: arma e armadura) com banco de dados</blockquote>
   <li>Coletar itens</li>
