@@ -3,7 +3,7 @@
 <h1>português</h1>
 
 <h2>Ideia do jogo</h2>
-<p>Um rpg sandbox, no mundo haverá alguns biomas diferentes (EX: floresta, deserto, savana), no mundo do jogo terá uma torre que será uma nova estancia com monstros com diversos andares, quanto maior o numero do andar mais fortes são os monstros. o jogo vai ter um sistema de craft e coleta, as habilidades serão conseguidas através de treinamentos quanto mais você usa a habilidade mais forte e eficiente ela fica</p>
+<p>Um jogo sandbox com elementos de rpg, no mundo haverá alguns biomas diferentes (EX: floresta, deserto, savana), no mundo do jogo terá uma torre que será uma nova estancia com monstros com diversos andares, quanto maior o numero do andar mais fortes são os monstros. o jogo vai ter um sistema de craft e coleta, as habilidades serão conseguidas através de treinamentos quanto mais você usa a habilidade mais forte e eficiente ela fica</p>
 
 <h3>Mecânicas</h3>
 <ul>
