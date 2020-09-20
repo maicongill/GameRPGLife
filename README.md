@@ -25,6 +25,10 @@
 <ul>
   <li>Player</li>
   <blockquote>O personagem principal não esta definido.</blockquote>
+  <li>Pedra</li>
+  <blockquote>Uma pedra para coletar recursos.</blockquote>
+  <li>Arvore</li>
+  <blockquote>Uma arvore para coletar recursos.</blockquote>
 </ul>
 <h4>Mapa</h4>
 <ul>
