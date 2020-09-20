@@ -16,7 +16,7 @@
   <li>Inventario</li>
   <blockquote>Duas janelas uma para guardar itens e a outra para itens equipáveis(EX: arma e armadura) com banco de dados</blockquote>
   <li>Coletar itens</li>
-  <blockqoute>Itens coletados são automaticamente armazenados no inventario</blockqoute>
+  <blockquote>Itens coletados são automaticamente armazenados no inventario</blockquote>
   <li>Ataques básicos</li>
   <blockquote>Realizar dois ataques básicos com uma arma o com as mãos, um fraco e rápido e o outro forte e lento com os dois botões do mouse.</blockquote>
   
