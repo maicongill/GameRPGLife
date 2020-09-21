@@ -11,8 +11,10 @@
   <blockquote>Movimentar o personagem nas duas direção "XZ" e fazer o pulo do personagem.</blockquote></strike>
   <strike><li>Vida e mana</li>
   <blockquote>sistema onde o personagem tem um numero estabelecida de mana e vida com um acréscimo por segundo de ambos quando o total de mana e vida do personagem for diferente do atual.</blockquote></strike>
-  <li>XP</li>
-  <blockquote>Criar um sistema de experiência para habilidades distintas(EX: mineração, culinária, combate e criação)</blockquote>
+  <strike><li>XP</li>
+  <blockquote>Criar um sistema de experiência para habilidades distintas(EX: mineração, culinária, combate e criação)</blockquote></strike>
+  <li>Sistema de câmera/mira</li>
+  <blockquote>Sistema de câmera em terceira pessoa com mira</blockquote>
   <li>Save e load</li>
   <blockquote>Criar um banco de dados que possibilite salvar e carregar as informações do jogador(EX: vida, mana e habilidades)</blockquote>
   <li>Quebrar objetos</li>
