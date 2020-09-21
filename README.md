@@ -12,7 +12,7 @@
   <strike><li>Vida e mana</li>
   <blockquote>sistema onde o personagem tem um numero estabelecida de mana e vida com um acréscimo por segundo de ambos quando o total de mana e vida do personagem for diferente do atual.</blockquote></strike>
   <li>XP</li>
-  <blockquote>Criar um sistema de experiência para habilidades distintas(EX: mineração, culinária e criação)</blockquote>
+  <blockquote>Criar um sistema de experiência para habilidades distintas(EX: mineração, culinária, combate e criação)</blockquote>
   <li>Save e load</li>
   <blockquote>Criar um banco de dados que possibilite salvar e carregar as informações do jogador(EX: vida, mana e habilidades)</blockquote>
   <li>Quebrar objetos</li>
@@ -48,3 +48,4 @@
   <li>Barra de Habilidades</li>
   <blockquote>Uma barra com alguns espaços vazios para colocar habilidades</blockquote>
 </ul>
+<h1>English</h1>
