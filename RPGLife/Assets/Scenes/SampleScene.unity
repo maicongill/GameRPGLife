@@ -464,6 +464,7 @@ GameObject:
   - component: {fileID: 1929848589}
   - component: {fileID: 1929848592}
   - component: {fileID: 1929848593}
+  - component: {fileID: 1929848594}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -543,3 +544,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   life: 0
   mana: 0
+--- !u!114 &1929848594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1929848588}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efeed347abf06444db967f5af7efc839, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
