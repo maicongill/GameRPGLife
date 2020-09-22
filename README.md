@@ -27,7 +27,7 @@
   <blockquote>Realizar dois ataques básicos com uma arma o com as mãos, um fraco e rápido e o outro forte e lento com os dois botões do mouse.</blockquote>
   
 </ul>
-<h4>Objetos 3D</h4>
+<h3>Objetos 3D</h3>
 <ul>
   <li>Player</li>
   <blockquote>O personagem principal não esta definido.</blockquote>
@@ -36,12 +36,13 @@
   <li>Arvore</li>
   <blockquote>Uma arvore para coletar recursos.</blockquote>
 </ul>
-<h4>Mapa</h4>
+<h3>Mapa</h3>
 <ul>
   <li>Local inicial</li>
   <blockquote>Um local simples para testar as mecânicas.</blockquote>
 </ul>
-<h5>Iterface</h5>
+<h3>Animação</h3>
+<h3>Iterface</h3>
 <ul>
   <li>Vida e mana</li>
   <blockquote>Duas barras que mostra a vida e a mana atual do personagem e em um dos lados de dentro das barras o numero de regeneração</blockquote>
