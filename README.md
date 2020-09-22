@@ -55,5 +55,5 @@
 
 
 <h4>contatos</h4>
-<p>*[Steam](https://steamcommunity.com/id/maicongilll)</p>
+<p><a href="https://steamcommunity.com/id/maicongilll">Steam</a></p>
 <p><a href="https://discord.gg/UrfB6S">Discort</a></p>
