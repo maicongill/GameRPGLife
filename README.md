@@ -52,3 +52,8 @@
   <blockquote>Uma barra com alguns espaços vazios para colocar habilidades</blockquote>
 </ul>
 <h1>English</h1>
+
+
+<h4>contatos</h4>
+<p>[Steam](https://steamcommunity.com/id/maicongilll)</p>
+<p>[Discort](https://discord.gg/UrfB6S)</p>
